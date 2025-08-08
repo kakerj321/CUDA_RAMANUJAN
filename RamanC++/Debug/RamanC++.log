@@ -1,0 +1,5 @@
+﻿  RamanC++.cpp
+D:\Studia\CUDA\Inzynierka\RamanC++\RamanC++\RamanC++.cpp(17,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\CUDA\Inzynierka\RamanC++\RamanC++\RamanC++.cpp(28,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\CUDA\Inzynierka\RamanC++\RamanC++\RamanC++.cpp(40,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  RamanC++.vcxproj -> D:\Studia\CUDA\Inzynierka\RamanC++\Debug\RamanC++.exe

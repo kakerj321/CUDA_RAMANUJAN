@@ -1,0 +1,10 @@
+﻿  RFT.cpp
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(98,15): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(166,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(182,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(192,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(238,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(274,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(275,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PC\Desktop\RamanC++\RamanC++\RFT.cpp(276,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  RamanC++.vcxproj -> C:\Users\PC\Desktop\RamanC++\x64\Debug\RamanC++.exe
